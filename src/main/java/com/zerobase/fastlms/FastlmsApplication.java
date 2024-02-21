@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FastlmsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(FastlmsApplication.class, args);
+		SpringApplication.run(FastlmsApplication.class, args);   
 	}
 
 }
